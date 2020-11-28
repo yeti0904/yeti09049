@@ -17,6 +17,6 @@
 📫 How to reach me: mesyeti@mail.com or yeti#0904
 <br>
 
-###Other info
+### Other info
 I'm a male from England, United Kingdom
 
