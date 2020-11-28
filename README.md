@@ -9,9 +9,14 @@
 🌱 I’m currently learning C and the languages for web design. 
 <br>
 👯 I’m looking to collaborate on new features for my website. 
+<br>
 🤔 I’m looking for help with learning C. 
-💬 Ask me about my repos. 
+<br>
+💬 Ask me about my repos.
+<br>
 📫 How to reach me: mesyeti@mail.com or yeti#0904
+<br>
 😄 Pronouns: he/him/his
+<br>
 ⚡ Fun fact: music also interests me :) 
 
