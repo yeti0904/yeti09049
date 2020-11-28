@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I'm MESYETI! 
 <!--
 **MESYETI/MESYETI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -16,7 +16,7 @@
 <br>
 📫 How to reach me: mesyeti@mail.com or yeti#0904
 <br>
-😄 Pronouns: he/him/his
-<br>
-⚡ Fun fact: music also interests me :) 
+
+###Other info
+I'm a male from England, United Kingdom
 
