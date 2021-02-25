@@ -1,5 +1,5 @@
 ### Hi there . I'm MESYETI! 
-I'm a male from the United Kingdom.
+i exist wow
 
 ## My stuff
 E-Mail https://mesyeti.uk/emails <br>
