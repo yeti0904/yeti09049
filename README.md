@@ -1,5 +1,5 @@
 Hello everyone, I'm MESYETI
-I code mainly in C and C++ but sometimes i make things in JavaScript and Python
+I code mainly in C and C++ but sometimes i make things in JavaScript
 
 I'm currently working on a text editor and powder simulation game
 
