@@ -1,4 +1,4 @@
-hello, im MESYETI
+## hello, im MESYETI
 
 i code in these languages:
 - C
@@ -6,7 +6,7 @@ i code in these languages:
 - lua
 - javascript
 
-<u>contact</u>
+## contact
 
 discord: yeti#0904
 
