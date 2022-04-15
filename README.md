@@ -1,5 +1,5 @@
 ## hello, im MESYETI
-i spend most of my time complaining about boredom and when im not doing that i'll be making some bad program
+
 
 i code in these languages:
 - C
