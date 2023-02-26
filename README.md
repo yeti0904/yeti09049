@@ -1,16 +1,10 @@
-## hello, im MESYETI
+## hello, im yeti0904
 
 
 i code in these languages:
-- C
 - C++
-- lua
-- fortran (sometimes)
 - D
-
-## contact
-
-email: mesyeti@mesyeti.uk
+- x86 assembly
 
 ## stats
 [![yeti0904's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yeti0904&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
