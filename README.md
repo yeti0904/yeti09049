@@ -6,7 +6,7 @@ i code in these languages:
 - D
 - x86 assembly
 
-my best project is [YSL-C](https://github.com/ysl-c)
+my best project is [MCYeti](https://github.com/yeti0904/MCYeti), a Minecraft Classic server software
 
 ## stats
 [![yeti0904's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yeti0904&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
