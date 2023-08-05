@@ -2,11 +2,11 @@
 
 
 i code in these languages:
-- C++
+- C
 - D
 - x86 assembly
 
-my best project is [MCYeti](https://github.com/yeti0904/MCYeti), a Minecraft Classic server software
+my best project is [yterm](https://github.com/yeti0904/yterm), a terminal emulator written in C
 
 ## stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeti0904&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
